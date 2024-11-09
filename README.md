@@ -10,8 +10,9 @@ class Bio extends SoftwareDeveloper {
   title  = 'Software Engineer | Front-end Developer | Back-end Developer';
   age  = 20;
   gender = 'Male';
+  language = 'English' | 'French';
   company  = 'Bricam | Hybrid';
-  location = 'Lagos, NG';
+  location = 'Lekki, Lagos state, NG';
 }
 
 class Skills extends SoftwareDeveloper {
