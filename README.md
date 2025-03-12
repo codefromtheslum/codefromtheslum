@@ -10,8 +10,8 @@ class Bio extends SoftwareDeveloper {
   title  = 'Software Engineer | Front-end Developer | Back-end Developer';
   age  = 20;
   gender = 'Male';
-  language = 'English' | 'French';
-  company  = 'Bricam | Hybrid';
+  language = 'English' | 'German';
+  company  = 'LemonWares | Remote';
   location = 'Lekki, Lagos state, NG';
 }
 
